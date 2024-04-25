@@ -55,13 +55,15 @@ Di dalam tutorial W3School, Anda akan menemukan lebih dari 200 contoh. Setiap co
 
 #  Exercise
 
-Hampir seratus soal latihan disediakan bagi Anda untuk melatih kemampuan HTML Anda. Uji kemampuan dan tingkatkan pemahaman Anda. Contoh latihannya adalah sebagai berikut:
+Uji kemampuan dan tingkatkan pemahaman Anda dengan mengerjakan soal latihan yang ada di W3School. Ada hampir seratus soal latihan yang disediakan di W3Scool untuk melatih kemampuan HTML, CSS, JavaScript. Contoh latihannya adalah sebagai berikut:
 
 ![exercise](https://github.com/MuhammadAbiAM/praktikum-web1/assets/168069395/23404f7f-9418-46d2-b25d-5777caf5717a)
 
 # Quiz
 
 Untuk menguji pengetahuan HTML Anda, ikuti [Kuis HTML](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML), serta uji kemampuan pengetahuan CSS, ikuti [Kuis CSS](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS), dan Uji kemampuan pengetahuan JavaScript, ikuti [Kuis JavaScript](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS).
+
+![html](https://github.com/MuhammadAbiAM/praktikum-web1/assets/168069395/33145b36-05b3-4b77-90ad-cb2bf4b21958)
 
 # Reference
 
