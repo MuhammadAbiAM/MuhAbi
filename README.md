@@ -33,5 +33,6 @@ Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen: `<!DOCTYPE html>
 </body>
 </html>
 ```
-Output:
-![Alt text]()
+Output :
+
+![Alt text](https://github.com/MuhammadAbiAM/praktikum-web1/assets/168069395/8d4d194d-30c6-4a65-b3b9-65c387591a5e?raw=true)
