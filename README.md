@@ -87,7 +87,7 @@ Program ini merupakan aplikasi web sederhana yang menunjukkan operasi aritmatika
 - Pengguna dapat memasukkan nilai baru untuk variabel A, B, dan C dengan tombol Ubah Nilai.
 - Setelah mengubah nilai dengan tombol "Ubah Nilai", program menghitung kembali hasilnya dan memicu perubahan pada gambar yang ditampilkan.
 
-## HML (index.html)
+## HTML (index.html)
 Di dalam tag dengan class container berisikan Heading, tabel, gambar dan tombol
 
 ```html
